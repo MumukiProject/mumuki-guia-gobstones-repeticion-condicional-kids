@@ -22,6 +22,3 @@
   <block type="hayBolitas"></block>
 </category>
 
-<category name="Operadores">
-  <block type="not"></block>
-</category>
