@@ -1,1 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="procedures_defnoreturnnoparams" id="MD`bykjgr*[,(L0s-U/t" x="76" y="66"><field name="NAME">Prueba</field><statement name="STACK"><block type="Poner" id=")w;%Gs(Y;;PohVGDa1Uz"><value name="COLOR"><block type="ColorSelector" id="Vr`+K=$V?16bAjJv`L-Y"><field name="ColorDropdown">Rojo</field></block></value></block></statement></block></xml>
