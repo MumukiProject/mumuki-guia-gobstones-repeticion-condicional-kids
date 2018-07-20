@@ -10,8 +10,10 @@
   <block type="math_number"></block>
 </category>
 
-<category name="Procedimientos primitivos"> </category>
-<category name="Mis procedimientos" custom="PROCEDURE_CALLS"> </category>
+<category name="Procedimientos">
+  <category name="Procedimientos primitivos"> </category>
+  <category name="Mis procedimientos" custom="PROCEDURE_CALLS"> </category>
+</category>
 
 <category name="Estructuras de control">
   <block type="RepeticionSimple"></block>
@@ -19,6 +21,7 @@
 </category>
 
 <category name="Condiciones">
-  <category name="Procedimientos primitivos"> </category>
+  <block type="hayBolitas"></block>
+  <category name="Funciones primitivas"> </category>
 </category>
 
