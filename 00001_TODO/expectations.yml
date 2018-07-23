@@ -2,3 +2,5 @@
 expectations:
 - binding: "*"
   inspection: DeclaresProcedure
+- binding: program
+  inspection: Uses
