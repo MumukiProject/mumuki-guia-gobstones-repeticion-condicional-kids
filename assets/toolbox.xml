@@ -12,6 +12,7 @@
 
 <category name="Procedimientos">
   <category name="Procedimientos primitivos"> </category>
+  <block type="procedures_defnoreturnnoparams"></block>
   <category name="Mis procedimientos" custom="PROCEDURE_CALLS"> </category>
 </category>
 
