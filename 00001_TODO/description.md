@@ -1,7 +1,7 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-¡Excelente! Ya terminamos la primera fase de esta investigación. La segunda etapa es la excavación; pero es un proceso difícil, así que lo dejaremos para la próxima lección y nos focalizaremos ahora en el trabajo de laboratorio.  :microscope:
+Ya terminamos la primera fase de esta investigación. La segunda etapa es la excavación; pero es un proceso difícil, así que lo dejaremos para la próxima lección y nos focalizaremos ahora en el trabajo de laboratorio.  :microscope:
 
 Para esta etapa limpian de diferentes maneras los materiales hallados, :black_nib: los marcan con algunos datos sobre la época a la que pertenecen, el año y lugar donde se los halló, etc. También se vuelcan estos datos en un registro, y se dibuja finalmente el material para publicarlo. :newspaper: 
 
