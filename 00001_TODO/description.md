@@ -3,9 +3,8 @@
 
 Ya terminamos la primera fase de esta investigación. La segunda etapa es la excavación; pero es un proceso difícil, así que lo dejaremos para la próxima lección y nos focalizaremos ahora en el trabajo de laboratorio.  :microscope:
 
-En esta etapa, limpian de diferentes maneras los materiales hallados, :black_nib: los marcan con datos de la época a la que pertenecen, año y lugar donde se los halló, etc. También se vuelcan estos datos en un registro, y se dibuja finalmente el material para publicarlo. :newspaper: 
+En esta etapa, limpian de diferentes maneras los materiales hallados. Por ejemplo, los huesos de dinosaurios se limpian con un pincel. Esto es porque absorben fácilmente la humedad; entonces, no conviene limpiarlos con agua :droplet:, sino con algo seco para que no se arruinen. De las huellas :paw_prints:, en cambio, nos interesa hacer un molde; para eso, se utiliza una plastilina especial de escultor. 
 
-Probablemente alguna vez viste a una persona “desenterrando” huesos de dinosaurios con un pincel. Esto es porque los huesos absorben fácilmente la humedad; entonces, no conviene limpiarlos con agua, sino con algo seco para que no se arruinen. De las huellas, en cambio, nos interesa hacer un molde; para eso, se utiliza una plastilina especial 
+Finalizada la limpieza, se marcan los materiales con datos de la época a la que pertenecen, año y lugar donde se los halló, etc :black_nib:. También se vuelcan estos datos en un registro, y se dibuja finalmente el material para publicarlo. :newspaper: 
 
-
-> ñom ñom
+> ñom ñom 
