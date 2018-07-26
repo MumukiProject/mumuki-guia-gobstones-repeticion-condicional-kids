@@ -4,3 +4,5 @@ expectations:
   inspection: DeclaresProcedure
 - binding: program
   inspection: Uses
+- binding: program
+  inspection: Not:Uses:Mover
