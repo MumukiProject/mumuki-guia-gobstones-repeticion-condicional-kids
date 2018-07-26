@@ -3,4 +3,6 @@ expectations:
 - binding: "*"
   inspection: DeclaresProcedure
 - binding: program
+  inspection: Uses:LavarConJabón
+- binding: program
   inspection: Not:Uses:Mover
