@@ -5,4 +5,4 @@ expectations:
 - binding: program
   inspection: Uses:LavarConJabón
 - binding: program
-  inspection: Not:Uses:Mover
+  inspection: Uses:puedeMover
