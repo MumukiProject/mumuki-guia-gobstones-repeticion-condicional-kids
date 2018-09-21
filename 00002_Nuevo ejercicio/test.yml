@@ -1,6 +1,11 @@
+expect_endless_while: true
+
 examples:
  - initial_board: |
      GBB/1.0
      size 2 2
      head 0 0
-expect_endless_while: true
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
