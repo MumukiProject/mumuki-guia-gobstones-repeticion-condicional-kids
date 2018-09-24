@@ -1,5 +1,10 @@
-lala 
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-kids/master/assets/toolbox.xml">
+</gs-toolbox>
 
-bloque 20 minutos por qué es útil saber programar
-40 min. juego de las cartas
-actividad de programación -> usar una función tipo excel en spreadsheet o automatizar algo o análisis obteniendo algo del browser 
+<gs-attire
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-kids/master/assets/attires/config.json">
+</gs-attire>
+
+piribiri
+
+> lala
