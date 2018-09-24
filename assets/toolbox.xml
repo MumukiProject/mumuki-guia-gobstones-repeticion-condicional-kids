@@ -12,7 +12,7 @@
 
 <category name="Procedimientos">
   <block type="procedures_defnoreturnnoparams"></block>
-  <category name="Procedimientos primitivos"> </category>
+  <category name="Procedimientos primitivos" gbs_custom="PRIMITIVE_PROCEDURES"> </category>
   <category name="Mis procedimientos" custom="PROCEDURE_CALLS"> </category>
 </category>
 
@@ -23,6 +23,6 @@
 
 <category name="Condiciones">
   <block type="hayBolitas"></block>
-  <category name="Funciones primitivas"> </category>
+  <category name="Funciones primitivas" gbs_custom="PRIMITIVE_FUNCTIONS"> </category>
 </category>
 
