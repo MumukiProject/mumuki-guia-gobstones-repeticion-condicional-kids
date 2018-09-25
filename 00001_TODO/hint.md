@@ -1,0 +1,1 @@
+Recordá que, antes de movernos al Norte, debemos controlar que podamos hacerlo. Si no, podríamos salirnos de los límites del telar. :anguished:
