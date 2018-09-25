@@ -12,4 +12,4 @@ En esta etapa, limpian de diferentes maneras los materiales hallados. Por ejempl
 
 Finalizada la limpieza, se marcan los materiales con datos de la época a la que pertenecen, año y lugar donde se los halló, etc :black_nib:. También se vuelcan estos datos en un registro, y se dibuja finalmente el material para publicarlo. :newspaper: 
 
-> Te dejamos el programa anterior. Modificalo para que se `mueva al Norte` `si puede moverse` en esa dirección. 
+> Te dejamos el programa anterior. Modificalo para que se `mueva al Norte`, `si puede moverse` en esa dirección. 
