@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: program
+  inspection: Uses:SacarReferencia
+- binding: SacarReferencia
+  inspection: Uses:SacarPuntada
+- binding: SacarReferencia
+  inspection: Uses:hayBolitas
