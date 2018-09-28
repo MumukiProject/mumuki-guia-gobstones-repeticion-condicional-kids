@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: program
+  inspection: UsesRepeat
+- binding: program
+  inspection: Uses:SacarPuntada

@@ -1,0 +1,1 @@
+Te dejamos el procedimiento `Sacar Puntada` que solo saca un punto. Como acá tenemos 6 puntadas, tendrás que repetirlo 6 veces. :stuck_out_tongue_winking_eye:
