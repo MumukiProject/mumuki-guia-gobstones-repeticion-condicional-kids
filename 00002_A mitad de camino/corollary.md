@@ -1,0 +1,1 @@
+¡Ups! Esta vez no pudimos terminar el tejido :disappointed:. Tendríamos que haber trenzado más hilos. ¿Y cómo saber de antemano cuántos hilos necesitaremos para completar la trama? Algunas veces pueden faltar, otras sobrar. En el próximo ejercicio te contamos una forma simple de resolver esto. :grin:
