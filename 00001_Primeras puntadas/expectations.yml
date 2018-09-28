@@ -1,8 +1,6 @@
 ---
 expectations:
-- binding: "*"
-  inspection: DeclaresProcedure
 - binding: program
-  inspection: Uses:LavarConJabón
+  inspection: UsesRepeat
 - binding: program
-  inspection: Uses:+
+  inspection: Uses:TrenzarHilo
