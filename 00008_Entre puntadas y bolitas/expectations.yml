@@ -6,3 +6,5 @@ expectations:
   inspection: Uses:SacarPuntada
 - binding: SacarReferencia
   inspection: Uses:hayBolitas
+- binding: SacarReferencia
+  inspection: UsesWhile
