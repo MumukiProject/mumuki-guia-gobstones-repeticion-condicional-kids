@@ -8,21 +8,28 @@
   <block type="ColorSelector"></block>
   <block type="DireccionSelector"></block>
   <block type="math_number"></block>
+  <block type="nroBolitas"></block>
+</category>
+
+<category name="Operadores">
+  <block type="OperadorNumerico"></block>
+  <block type="OperadorLogico"></block>
+  <block type="not"></block>
 </category>
 
 <category name="Procedimientos">
-  <block type="procedures_defnoreturnnoparams"></block>
-  <category name="Procedimientos primitivos" gbs_custom="PRIMITIVE_PROCEDURES"> </category>
+  <category name="Procedimientos primitivos"> </category>
   <category name="Mis procedimientos" custom="PROCEDURE_CALLS"> </category>
 </category>
 
 <category name="Estructuras de control">
-  <block type="RepeticionSimple"></block>
   <block type="AlternativaSimple"></block>
+  <block type="AlternativaCompleta"></block>
+  <block type="RepeticionSimple"></block>
+  <block type="RepeticionCondicional"></block>  
 </category>
 
 <category name="Condiciones">
   <block type="hayBolitas"></block>
-  <category name="Funciones primitivas" gbs_custom="PRIMITIVE_FUNCTIONS"> </category>
+  <category name="Otras" gbs_custom="PRIMITIVE_FUNCTIONS"> </category>
 </category>
-
