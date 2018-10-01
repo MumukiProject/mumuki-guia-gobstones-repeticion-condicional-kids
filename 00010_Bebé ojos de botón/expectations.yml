@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: program
-  inspection: Uses:TejerCorazon
+  inspection: Uses:TejerFlor
 - binding: program
   inspection: Uses:SacarReferencia
