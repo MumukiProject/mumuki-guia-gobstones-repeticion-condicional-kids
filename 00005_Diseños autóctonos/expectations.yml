@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: program
+  inspection: Uses:TejerFlor
+- binding: TejerFlor
+  inspection: UsesWhile
+- binding: TejerFlor
+  inspection: Uses:termineLaFlor
