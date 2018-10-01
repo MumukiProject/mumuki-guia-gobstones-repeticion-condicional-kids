@@ -7,4 +7,4 @@ Acabamos de conocer otra _estructura de control_: la **repetición condicional**
 
 Nos sirve para `repetir`ciertas acciones `hasta que` se cumpla _la condición_ que _corte_ la repetición. ¡Probémosla! :smiley: 
 
-> Completá la condición de esta repetición para que trence hilos `hasta que termine la trama`. Luego ejecutalo. 
+> Completá la **condición** de esta repetición para que trence hilos `hasta que termine la trama`. Luego ejecutalo. 
