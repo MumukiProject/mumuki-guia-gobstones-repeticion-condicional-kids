@@ -3,7 +3,7 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-Las _mujeres wichís_ recolectan las hojas del **chaguar**, que es una planta, de la que obtienen las fibras **para tejer**. Es un proceso largo y complejo. Sus primeras tramas son **bolsas** en las que representan _semillas de chañar_ (árbol del que se saca un fruto para hacer _arrope_) o _pájaros carpinteros_ (quienes comen el fruto del _mistol_). Con estas bolsas, los Wichís salen a recolectar esos frutos y semillas. :yum:
+Las _mujeres wichís_ recolectan las hojas de una planta llamada **chaguar**, las procesan y así obtienen las fibras **para tejer**. Sus primeras tramas son **bolsas** que usan para recolectar frutos y semillas; por eso, les suelen bordar imágenes del ambiente, como _semillas de chañar_ o _pájaros carpinteros_ .
 
 A partir de ahora crearemos nuestros propios diseños para representar diferentes cosas, como lo hacen las mujeres wichís. :smile:
 
