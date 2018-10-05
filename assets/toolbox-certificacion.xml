@@ -31,4 +31,5 @@
 
 <category name="Condiciones">
   <block type="hayBolitas"></block>
+  <category name="Otras" gbs_custom="PRIMITIVE_FUNCTIONS"> </category>
 </category>
