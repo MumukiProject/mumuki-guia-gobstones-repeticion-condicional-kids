@@ -1,3 +1,3 @@
-¡Muy bien! Aprendimos una nueva _estructura de control_ que combina otras dos ya conocidas: la **repetición condicional**. Y lo genial de esto es que no tuvimos que conocer previamente la _cantidad de repeticiones_ necesarias; con una _condición de corte_ fue suficiente para `repetir` las acciones `hasta que` se cumpla esa condición. 
+¡Muy bien! :clap: Aprendimos una nueva _estructura de control_ que combina otras dos ya conocidas: la **repetición condicional**. Y lo genial de esto es que no tuvimos que conocer previamente la _cantidad de repeticiones_ necesarias :satisfied:; con una _condición de corte_ fue suficiente para `repetir` las acciones `hasta que` se cumpla esa condición. :sunglasses:
 
 ¿Te imaginás todo lo que podemos lograr si juntamos esto con el resto de las herramientas que conocemos? :scream: ¡Juguemos un poco más con estas combinaciones en la próxima lección!

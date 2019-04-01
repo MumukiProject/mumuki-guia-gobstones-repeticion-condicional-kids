@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:TejerFlor
-- binding: TejerFlor
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: TejerFlor
   inspection: UsesWhile
-- binding: TejerFlor
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: TejerFlor
   inspection: Uses:termineLaFlor

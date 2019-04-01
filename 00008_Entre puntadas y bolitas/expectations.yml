@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:SacarReferencia
-- binding: SacarReferencia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: SacarReferencia
   inspection: Uses:SacarPuntada
-- binding: SacarReferencia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: SacarReferencia
   inspection: Uses:hayBolitas
-- binding: SacarReferencia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: SacarReferencia
   inspection: UsesWhile
