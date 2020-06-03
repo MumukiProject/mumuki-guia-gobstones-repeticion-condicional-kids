@@ -5,6 +5,11 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Las soluciones de las actividades anteriores se combinan para resolver
+  esta. Es importante tenerlas resueltas antes de empezar con una nueva solución.
+  Para pensar: \n\n* ¿Cuál es el objetivo de esta actividad?\n* ¿Qué tareas ya están
+  resueltas por los procedimientos?\n* ¿Qué resta por hacer?\n* ¿Cómo combino todo
+  en el programa principal?"
 manual_evaluation: false
 choices: []
 name: Bebé ojos de botón
