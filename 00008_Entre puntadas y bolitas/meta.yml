@@ -5,6 +5,13 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Siempre que utilizamos repeticiones condicionales tenemos que diferenciar
+  las condiciones que deben cumplirse para que se dejen de repetir las acciones y
+  las instrucciones que queremos ejecutar hasta que eso ocurra. Para pensar: \n\n*
+  ¿Cuál es la condición? \n* ¿Contamos con un bloque para usarla o debemos recurrir
+  a operadores para construirla? \n* ¿Qué diferencia encontrás entre usar una condición
+  y usar su negación con el bloque `repetir hasta que`? \n* ¿Cuál o cuáles son las
+  acciones que deben repetirse hasta que se cumpla la condición?"
 manual_evaluation: false
 choices: []
 name: Entre puntadas y bolitas
