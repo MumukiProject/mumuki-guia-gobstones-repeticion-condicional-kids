@@ -3,7 +3,13 @@ name: Hilando fino
 locale: es
 type: learning
 beta: false
-teacher_info: ''
+teacher_info: Para repetir una o varias acciones tantas veces seguidas como querramos
+  utilizamos la repetición simple. También conocimos las alternativas condicionales,
+  que nos permitían realizar acciones según se cumpliera una condición.  Es importante
+  revisar los conceptos mencionados para comprender mejor otra forma de repetir instrucciones
+  que vamos a explorar en este capítulo. La **repetición condicional** no requiere
+  un número de veces sino una condición que debe cumplirse para ejecutar las acciones
+  que le indiquemos.
 language: gobstones
 id_format: "%05d"
 order:
