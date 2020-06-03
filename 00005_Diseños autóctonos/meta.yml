@@ -5,6 +5,10 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "En esta actividad tenemos que crear una repetición condicional completa:
+  \n\n* ¿Qué características tiene el bloque `repetir hasta que`? \n* ¿Qué acciones
+  debo repetir? \n* ¿Cuándo deben dejar de repetirse? \n* ¿Dónde incluyo la condición?
+  \n* ¿Cuál es la diferencia con la condición de la alternativa condicional?"
 manual_evaluation: false
 choices: []
 name: Diseños autóctonos
