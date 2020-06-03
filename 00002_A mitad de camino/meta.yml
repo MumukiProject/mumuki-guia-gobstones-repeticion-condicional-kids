@@ -5,6 +5,11 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Podemos aprovechar esta actividad para explorar las bolitas detrás
+  del tablero: \n\n* ¿Cómo queda el tablero final? \n* ¿Qué número de repeticiones
+  se necesitan esta vez para completar la trama? \n* ¿Qué pasará cada vez que nos
+  encontremos frente a un tejido nuevo si no conocemos de antemano la cantidad de
+  repeticiones necesaria para tejer la trama completa?"
 manual_evaluation: false
 choices: []
 name: A mitad de camino
