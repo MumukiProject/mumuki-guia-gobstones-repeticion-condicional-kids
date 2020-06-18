@@ -3,7 +3,7 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-Nuestros nuevos diseños están geniales :sunglasses:. Pero como vimos, la cantidad de puntadas de referencia pueden variar según el dibujo que hagamos. :sweat_smile:
+Nuestros nuevos diseños están geniales :sunglasses:. Pero como vimos, la cantidad de puntadas de referencia pueden variar según el dibujo que hagamos. :sweat_smile: 
 
 Te contamos un secreto: ¡las puntadas son bolitas azules! :open_mouth: Entonces, podríamos hacer un procedimiento que `saque las puntadas hasta que no hayan` más `bolitas azules`. Y eso nos serviría para cualquier trama. :smiley: ¡Probémoslo!
 
